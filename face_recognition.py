@@ -61,9 +61,7 @@ while True:
 
         if faceDis[matchIndex] <0.50:
             name = classNames[matchIndex]
-            key = cv2.waitKey(1)
-            if key == ord("c"):
-                roll_call(name)
+            roll_call(name)
         else:
             name = "Unknow"
 
