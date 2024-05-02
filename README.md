@@ -27,8 +27,8 @@ The goal of this project is to digitize attendance at schools, instead of teache
 * Add student's face images to recognize into *pic2* folder
 * Run *face_recognition.py* to roll-call
 <img width="929" alt="anh_test" src="https://github.com/n-tan-adonis/roll_call/assets/127659484/2242a627-48ae-448a-9a74-91259ff3d849">
-* The program will automatically save the names of faces appearing in the frame.
-  The program only saves the names and datetime of people who have not been saved in the text file
+
+* The program will automatically save the names of faces appearing in the frame. The program only saves the names and datetime of people who have not been saved in the text file
 * Press "e" to finish running the program
 
 
